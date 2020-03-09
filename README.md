@@ -1,4 +1,4 @@
-# E08b-Debugging
+# E08b-Debugging Allie Brock MSCH-C220 Spring 2020
 
 As usual, Fork and Clone this repository.
 
@@ -15,3 +15,13 @@ The project is associated with a tutorial (both a free and paid version). The fr
 The original source code is available on GitHub, but please only use it as a point of comparison after you have exhausted all other options.
 
 When you have found all eight errors (one of them is on multiple lines), commit your changes, and turn in the URL of your repository on Canvas.
+
+FOUND ERRORS:
+    Runtime error in the form of wrong variable name
+    Indentation errors (2)
+    userinterface.gd line 37 (changing label text)
+    player.gd line 27 (Move_right -> move_right)
+    playerdata.gd removed bit that changed score to 5
+    made the enemy visible
+    fixed error in endscreen-- shows score now and doesn't crash
+    fixed the enemies flying away (just commented it out bc i think it's funny and want to play with it later)
